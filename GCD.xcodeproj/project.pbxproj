@@ -24,6 +24,7 @@
 		5F1EA2FF23CBC7EF00275036 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F1EA30223CBC7EF00275036 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5F1EA30423CBC7EF00275036 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5F1EA32A23CC879F00275036 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +64,7 @@
 				5F1EA2FF23CBC7EF00275036 /* Assets.xcassets */,
 				5F1EA30123CBC7EF00275036 /* LaunchScreen.storyboard */,
 				5F1EA30423CBC7EF00275036 /* Info.plist */,
+				5F1EA32A23CC879F00275036 /* README.md */,
 			);
 			path = GCD;
 			sourceTree = "<group>";
