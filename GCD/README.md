@@ -11,7 +11,4 @@ thread_3.async                  { self.printLoop(icone: "3️⃣🟡", threadNam
 thread_2.async                  { self.printLoop(icone: "2️⃣🟠", threadName: "QoS: userInitiated",   multiplicador: 1) }
 threadWithHighestPriority.async { self.printLoop(icone: "1️⃣🔴", threadName: "QoS: userInteractive", multiplicador: 1) }
 
-
-
-
-
+```
